@@ -2,9 +2,5 @@ language: node_js
 node_js:
  - "iojs"
  - "7"
-addons:
-  code_climate:
-    repo_token:
-      secure: "ff060cdaaa468ac0e693df42f204f8e40ee0be9401e9de90365d29c86a7a28c5"
 script: 
   echo "Hello World"
